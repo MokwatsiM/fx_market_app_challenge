@@ -1,6 +1,9 @@
 # fx_app_challenge
 
-A new Flutter project.
+App display fx rate of two currencies and also shows a graphic trend of the currencies in the last 30 days
+
+![Image Alt text](/screenshot/iOS_screenshot.png "iOS"))
+![Image Alt text](/screenshot/Android_screenshot.png "iOS"))
 
 ## Getting Started
 
